@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    color: darkred;
+    background-color: gold;
+    padding: 30px;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: "Times New Roman", serif;
+}
+
+ul {
+    background-color: darkgreen;
+    color: white;
+    padding: 25px;
+    text-align: center;
+}
+
+li {
+    padding: 15px;
+    background-color: black;
+    color: orange;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+a {
+    color: orange;
+    font-family: "Times New Roman", serif;
+}
