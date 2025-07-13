@@ -1,0 +1,61 @@
+/* CSS following TOP CSS Foundations up to Block and Inline */
+
+* {
+    background-color: #fdf5e6;
+}
+
+h1 {
+    text-align: center;
+    color: wheat;
+    background-color: darkred;
+    padding: 20px;
+    margin: 40px 50px;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+    padding: 20px;
+    margin: 40px 50px;
+    text-align: justify;
+    color: oklch(96.9% 0.015 12.422);
+    background-color: oklch(51.4% 0.222 16.935);
+    font-weight: bolder;
+    font-family: Helvetica;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+h2 {
+    text-align: center;
+    padding: 15px;
+    margin: 40px 50px;
+    background-color: #f95959;
+    color: wheat;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+ul, ol {
+    padding: 20px;
+    margin: 40px 50px;
+    background-color: #A0522D;
+}
+
+li {
+    border: 15px;
+    background-color: #edf7f6;
+    padding: 10px;
+    margin: 5px;
+}
+
+a {
+    color: darkred;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-decoration: none;
+}
