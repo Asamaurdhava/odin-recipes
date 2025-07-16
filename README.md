@@ -1,6 +1,6 @@
 # Odin Recipes
 
-> *"I like creating recipes using HTML where structure acts like ingredients"*
+> *"I like creating recipes using HTML where structure acts like ingredients and CSS is the spice"*
 
 A structured recipe website demonstrating fundamental HTML concepts through culinary presentation. This project explores the parallels between code organization and recipe methodology.
 

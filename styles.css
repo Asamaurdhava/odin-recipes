@@ -1,29 +1,43 @@
+* {
+    background-color: #fdf5e6;
+}
+
+#odin {
+    color: oklch(40.8% 0.123 38.172);
+    background-color: oklch(96.9% 0.015 12.422);
+    font-size: 45px;
+    border-radius: 25px;
+    padding: 20px;
+}
+
 h1 {
     text-align: center;
-    color: darkred;
-    background-color: gold;
+    background-color: oklch(55.3% 0.195 38.402);
     padding: 30px;
-    font-size: 48px;
-    font-weight: bold;
-    font-family: "Times New Roman", serif;
+    margin: 40px 50px;
+    border-radius: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 ul {
-    background-color: darkgreen;
+    background-color: oklch(37.4% 0.01 67.558);
     color: white;
     padding: 25px;
+    border-radius: 25px;
+    margin: 40px 50px;
     text-align: center;
 }
 
 li {
     padding: 15px;
-    background-color: black;
+    background-color: oklch(98.5% 0.001 106.423);
     color: orange;
     font-size: 24px;
     font-weight: bold;
 }
 
 a {
-    color: orange;
+    color: oklch(58.6% 0.253 17.585);
+    background-color: oklch(98.5% 0.001 106.423);
     font-family: "Times New Roman", serif;
 }
